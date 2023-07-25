@@ -23,12 +23,12 @@ I'm currently focused on improving my skills in:
 
 If you have any questions or just want to chat, feel free to reach out to me:
 
-- Email: wilfrido.paredes@data-developer.ru
+- Email: wilfrido.paredes@yahoo.com
 - Twitter: @Wilfridovich
 - LinkedIn: www.linkedin.com/in/wilfrido-jacobo-paredes-garcía-b89a969b
 
 ## 📝 Blog
 
-I also write technical articles and share my knowledge on my personal blog. You can find my latest posts here: [BitBot](www.bitbot.com.mx)
+I also write technical articles and share my knowledge on my personal blog. You can find my latest posts on my [github pages](https://wparedes17.github.io)
 
 Thank you for visiting my profile! I hope you find something interesting in my projects.
