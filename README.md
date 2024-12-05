@@ -1,4 +1,4 @@
-# Hello! 👋 I'm WIlfrido Paredes
+# Hello! 👋 I'm Wilfrido Paredes
 
 Welcome to my GitHub profile! I am a Mathematician/Statistician. I'm passionate about machine learning and experimental designs. For several years I worked on Universidad Autónoma de Querétaro as Adjunct Professor where I was involved in several multidisciplinary project from a wide range of areas: Lingüistics, Chemistry and Engineering.
 
