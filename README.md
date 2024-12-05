@@ -23,7 +23,7 @@ I'm currently focused on improving my skills in:
 
 If you have any questions or just want to chat, feel free to reach out to me:
 
-- Email: wilfrido.paredes@yahoo.com
+- Email: wilfridojpg@yahoo.com
 - Twitter: @Wilfridovich
 - LinkedIn: www.linkedin.com/in/wilfrido-jacobo-paredes-garcía-b89a969b
 
